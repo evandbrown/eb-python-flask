@@ -1,4 +1,5 @@
-### /Users/evbrown/.gitignore-boilerplates/Python.gitignore
+# Elastic Beanstalk CLI
+.elasticbeanstalk/
 
 *.py[cod]
 
